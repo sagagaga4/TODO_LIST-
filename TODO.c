@@ -20,6 +20,7 @@ void AddTask()
     {
         printf("INPUT ERROR\n");
     }
+   
     if(Tasks_Counter > Task_Amount - 1)
     {
         printf("LIST IS FULL\n");
